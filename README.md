@@ -16,7 +16,7 @@ Converter tool from Gif to VRC compatible spritesheets for animated emojis
 |Sticker uploading|:white_check_mark:|
 
 ## How to use
-
+content://media/external/downloads/1000000515
 - Download the latest release [here](http://github.com/Wakamu/VRCEmoji/releases/latest "Release").
 - Open a GIF file using the "Open" button, the GIF will be displayed in the top Canvas.
 - Set your settings in the [Settings](#settings) section.
